@@ -152,7 +152,7 @@ const projects = [
       },
     ],
     image: "/projects/logo_generator.png",
-    source_code_link: "https://github.com/abdlkbir5840/Logo-Generator-AI",
+    source_code_link: "https://github.com/abdlkbir5840/logo-generator-genai",
   },
   {
     name: "UI Generator (AI-powered)",
@@ -189,7 +189,7 @@ const projects = [
       },
     ],
     image: "/projects/ui_generator.png",
-    source_code_link: "https://github.com/abdlkbir5840/UI-Generator",
+    source_code_link: "https://github.com/abdlkbir5840/UI2Code-GenAI",
   },
   {
     name: "More Projects",
