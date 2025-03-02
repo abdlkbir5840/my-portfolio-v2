@@ -229,7 +229,7 @@ export default function Projects() {
               viewport={{ once: true }}
               className="h-full"
             >
-              <Card className="overflow-hidden h-full flex flex-col">
+              <Card className="overflow-hidden h-full flex flex-col cursor-pointer">
                 <div className="relative h-48 w-full overflow-hidden group">
                   <Image
                     src={project.image || "/placeholder.svg"}
